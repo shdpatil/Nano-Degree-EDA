@@ -6,9 +6,9 @@ relationships in one variable to multiple variables and to explore a selected da
 
 
 I started by looking at the individual distributions of the variables, trying to investigate each seperately.
-Out of the chemical varibles, the only one that stood out was the concentration of citric acid .
-First thing i noticed was the high number of wines that had no citric.acid at all. 
-My initial thought was a data collection error, but upon researching the subject, I found out that citric acid is sometimes
+Out of the chemical varibles, the only one that stood out was the concentration of citric acid.
+First thing i noticed was the high number of wines that had no citric acid at all. 
+My initial thought was a data collection error, but upon researching the subject, I found that citric acid is sometimes
 added to wines to boost overall acidity, so it makes sense that some wines would have none. Nonetheless this variable also showed 
 a strange distribution with some peaks but showing an almost rectangular distribution specially in the 0-0.5 range. 
 
