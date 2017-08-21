@@ -1,7 +1,7 @@
-
+ 
 # Nano-Degree-EDA
 Red Wine data set is used for analyzing and creating variables with R programming language
-In this project,I used R and applied exploratory data analysis techniques to explore 
+In this project,I used R language and applied exploratory data analysis techniques to explore 
 relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies.
 
 
