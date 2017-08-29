@@ -15,7 +15,7 @@ a strange distribution with some peaks but showing an almost rectangular distrib
 
 All of the other variables showed either an normal or long tailed looking distribution. Through this exploratory data analysis,
 I had many challenges while analyzing the chemical composition of all the variables and how those are related, but I was able to
-identify the key factors that determine and drive wine quality, mainly: alcohol content, sulphates, and acidity. 
+identify the key factors that determine and drive wine quality, mainly:<li> alcohol content</li> <li> sulphates</li> <li> acidity</li>
 Most confusing ones were the pH and the acids, but then after researching some websites on the internet I started 
 getting the ideas about the variables and I started creating my analysis on the quality which is base of my project. 
 The most promissing varibles were alcohol concentration, sulphates and the individual acid concentrations. My biggest challenge
