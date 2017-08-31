@@ -21,7 +21,7 @@ getting the ideas about the variables and I started creating my analysis on the 
 The most promissing varibles were alcohol concentration, sulphates and the individual acid concentrations. My biggest challenge
 was to build the predictive model,for analysing the other factors which were affecting the pH other than the acids but with the help 
 of example project and some websites, I was able to build it. It is important to note, however, that wine quality is 
-ultimately a subjective measure. The graphs adequately illustrate the factors that make good wines ‘good’ and bad wines ‘bad’.
+ultimately a subjective measure. The graphs adequately illustrate the factors that make<li> good wines ‘good’</li> and bad wines ‘bad’.
 
 
 Further study with inferential statistics could be done to quantitatively confirm these assertions.
